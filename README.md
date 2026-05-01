@@ -25,3 +25,7 @@ python tracker.py
 > Built with MIMO 🦋 | Track every token, save every penny
 
 ⭐ Star this repo if you find it useful!
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/aaroncxxx/how-much-token-did-this-chat-used.svg)](https://skill-history.com/aaroncxxx/how-much-token-did-this-chat-used)
